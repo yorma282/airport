@@ -1,0 +1,19 @@
+C:\Users\User\Documents\C#\airport\bin\Debug\airport.exe.config
+C:\Users\User\Documents\C#\airport\bin\Debug\airport.exe
+C:\Users\User\Documents\C#\airport\bin\Debug\airport.pdb
+C:\Users\User\Documents\C#\airport\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Documents\C#\airport\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Documents\C#\airport\obj\Debug\airport.csproj.AssemblyReference.cache
+C:\Users\User\Documents\C#\airport\obj\Debug\airport.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\C#\airport\obj\Debug\airport.AirplaneForm.resources
+C:\Users\User\Documents\C#\airport\obj\Debug\airport.DateForm.resources
+C:\Users\User\Documents\C#\airport\obj\Debug\airport.MainForm.resources
+C:\Users\User\Documents\C#\airport\obj\Debug\airport.Properties.Resources.resources
+C:\Users\User\Documents\C#\airport\obj\Debug\airport.RouteForm.resources
+C:\Users\User\Documents\C#\airport\obj\Debug\airport.csproj.GenerateResource.cache
+C:\Users\User\Documents\C#\airport\obj\Debug\airport.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#\airport\obj\Debug\airport.csproj.CopyComplete
+C:\Users\User\Documents\C#\airport\obj\Debug\airport.exe
+C:\Users\User\Documents\C#\airport\obj\Debug\airport.pdb
+E:\практика 3 курс\airport\obj\Debug\airport.exe
+E:\практика 3 курс\airport\obj\Debug\airport.pdb
